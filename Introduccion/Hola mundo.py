@@ -8,7 +8,4 @@ print(Nombre)
 print(type(NUMERO))
 print(NUMERO)
 print(type(FLOTANTE))
-print(flotante) 
-Nombre , apellido = "Arturo" , "Santiago"
-print(Nombre)
-print(apellido)
+print(flotante)
